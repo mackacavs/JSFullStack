@@ -12,7 +12,7 @@ Over my last few weeks at Makers I've beomce increasingly interested in Javascri
 * Templates
   * For the purpose of this tutorial I've used handlebars in order easily show our front-ends
 
-Finally, there is also a file of Node - it gives you a very brief breakdown on how Node allows you to use Javascript outside of the browser
+Finally, there is also a file on Node - it gives you a very brief breakdown on how Node allows you to use Javascript outside of the browser
 
 
 
