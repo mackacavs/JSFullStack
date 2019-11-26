@@ -20,6 +20,7 @@ mongoose.connect('mongodb://localhost/nameofsatabase', {
 require('./Idea.js')
 
 //Handlebars Middleware
+//Here yu're default layout is main and you can add the seperate files into the 'main' file
 app.engine('handlebars', exphbs({
   defaultLayout: 'main'
 }));
