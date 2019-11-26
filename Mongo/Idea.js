@@ -1,3 +1,4 @@
+// Requires Mongoose for connecting to Mongo DB
 const mongoose = require('mongoose')
 // Requires the schema for creating databases
 const Schema = mongoose.Schema;
