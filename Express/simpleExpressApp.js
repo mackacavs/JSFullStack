@@ -14,6 +14,7 @@ mongoose.connect('mongodb://localhost/nameofsatabase', {
   .then(() => console.log("MongoDB Connected..."))
   .catch(err => console.log(err))
 
+// Watch out when using a testing framework as often you'll have to remove the console.log for the testing to work
 
 //Load idea model
 require('./Idea.js')
